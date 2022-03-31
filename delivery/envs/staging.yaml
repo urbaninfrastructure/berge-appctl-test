@@ -1,0 +1,6 @@
+cluster_name: dev-ursus
+project: uip-dev
+compute:  # choose "region" or "zone"
+   region: europe-west1
+namespace: berge-appctl-test-staging
+no_pr_approval_required: false
